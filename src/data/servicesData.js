@@ -1,0 +1,8 @@
+const servicesData = [
+    {id:1, name:"Servicio 1", description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mollis magna sagittis mi laoreet sollicitudin. Etiam et diam sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum eu eros congue", image:"src/img/services/lab-2815639_1280.jpg"},
+    {id:2, name:"Servicio 2", description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mollis magna sagittis mi laoreet sollicitudin. Etiam et diam sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum eu eros congue", image:"src/img/services/mri-2813911_1280.jpg"},
+    {id:3, name:"Servicio 3", description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mollis magna sagittis mi laoreet sollicitudin. Etiam et diam sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum eu eros congue", image:"src/img/services/lab-313864_1280.jpg"},
+    {id:4, name:"Servicio 4", description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mollis magna sagittis mi laoreet sollicitudin. Etiam et diam sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum eu eros congue", image:"src/img/services/face-mask-4986596_1280.jpg"}
+]
+
+export default servicesData
