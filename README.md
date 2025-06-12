@@ -5,4 +5,4 @@
 - video 3: servicios
 - video 4: formulario login
 - video 5: formulario register
-- video 6: validar Register genera
+- video 6: validar Register general
