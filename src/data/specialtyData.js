@@ -1,0 +1,25 @@
+const specialtyData = [
+   {id:0, type:"", specialty:"Todos"},
+   {id:1, type:"Médico", specialty:"Medicina General"},
+   {id:2, type:"Médico", specialty:"Pediatría"},
+   {id:3, type:"Médico", specialty:"Ginecología"},
+   {id:4, type:"Médico", specialty:"Traumatología"},
+   {id:5, type:"Médico", specialty:"Dermatología"},
+   {id:6, type:"Médico", specialty:"Oftalmología"},
+   {id:7, type:"Médico", specialty:"Cardiología"},
+   {id:8, type:"Médico", specialty:"Neurología"},
+   {id:9, type:"Matrona", specialty:"Salud Reproductiva"},
+   {id:10, type:"Kinesiólogo", specialty:"Rehabilitación Deportiva"},
+   {id:11, type:"Kinesiólogo", specialty:"Respiratoria"},
+   {id:12, type:"Psicólogo", specialty:"Psicología Clínica Adultos"},
+   {id:13, type:"Psicólogo", specialty:"Infanto Juvenil"},
+   {id:14, type:"Nutricionista", specialty:"Nutrición Clínica"},
+   {id:15, type:"Nutricionista", specialty:"Deportiva"},
+   {id:16, type:"Fonoaudiólogo", specialty:"Trastornos del Lenguaje"},
+   {id:17, type:"Fonoaudiólogo", specialty:"Voz Profesional"},
+   {id:18, type:"Terapeuta Ocupacional", specialty:"Integración Sensorial"},
+   {id:19, type:"Podóloga", specialty:"Podología General"},
+   {id:20, type:"Enfermero", specialty:"Atención Primaria"},
+]
+
+export default specialtyData
