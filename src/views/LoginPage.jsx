@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Swal from 'sweetalert2'
-const Login = () => {
+const LoginPage = () => {
   const [email, setEmail] =useState("")
   const [password, setPassword] =useState("")
 
@@ -21,7 +21,7 @@ const Login = () => {
     setPassword("")
   }
   return (
-    <section className='container border border-primary rounded p-3'>
+    <main className='container border border-primary rounded p-3'>
       <h2 className='text-center'>Iniciar sesión</h2>
       <form onSubmit={ingresar}>
         <div className="mb-3">
@@ -34,8 +34,8 @@ const Login = () => {
         </div>
         <button type="submit" className="btn btn-primary">Ingresar</button>
       </form>
-</section>
+</main>
   )
 }
 
-export default Login
+export default LoginPage

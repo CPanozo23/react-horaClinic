@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Swal from 'sweetalert2'
 
-const Register = () => {
+const RegisterPage = () => {
   const [email, setEmail] =useState("")
   const [name, setName] =useState("")
   const [lastName, setlastName] =useState("")
@@ -53,7 +53,7 @@ const Register = () => {
       
     }
   return (
-    <section className='container border border-primary rounded p-3'>
+    <main className='container border border-primary rounded p-3'>
       <h2 className='text-center'>Formulario de registro</h2>
       <ul className='text-danger'>
       {listErrors.map((error, index) => (
@@ -83,8 +83,8 @@ const Register = () => {
  
   <button type="submit" className="btn btn-primary">Registrarse</button>
 </form>
-    </section>
+    </main>
   )
 }
 
-export default Register
+export default RegisterPage

@@ -1,10 +1,10 @@
 import React from 'react'
 import servicesData from '../data/servicesData'
-import ServiceCard from './ServiceCard'
+import ServiceCard from '../components/ServiceCard'
 
-const Services = () => {
+const ServicesPage = () => {
   return (
-    <section className='container'>
+    <main className='container'>
       <h2 className='text-center'>Nuestros servicios</h2>
 
       <section className='row g-3'>
@@ -13,8 +13,8 @@ const Services = () => {
           ))}
         
       </section>
-    </section>
+    </main>
   )
 }
 
-export default Services
+export default ServicesPage

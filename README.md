@@ -21,3 +21,10 @@
 - Enlace: [Ver videos](https://drive.google.com/drive/folders/1NvfbmQr07m1zmG-W4r7R-8L7r9ufiG-y?usp=sharing)
 ### Otros
 - Data original:[Ver archivos](https://drive.google.com/drive/folders/1Ccux1E_bDLNwnImTp_FwBmap8IOg-pqa?usp=sharing)
+## Versión 3
+### Deploy
+- Ver en [https://horaclinic-v3.netlify.app/](https://horaclinic-v3.netlify.app/)
+### Videos
+- 11: Views: Home, Login, Servicios, Profesionales, Reserva
+- 12: Navbar y Rutas
+- Enlace: [Ver videos](https://drive.google.com/drive/folders/18anS3L2du8Bg0ui_MA1st47jCLJsXz6L?usp=sharing)
