@@ -1,7 +1,5 @@
 # HoraClinic
 ## Versión 1
-### Deploy
-- Ver en [https://horaclinic-v1.netlify.app/](https://horaclinic-v1.netlify.app/)
 ### Videos
 - 1: Crear componentes y data inicial
 - 2: bootstrap general
@@ -11,8 +9,6 @@
 - 6: validar Register general
 - Enlace: [Ver videos](https://drive.google.com/drive/folders/1bgSeAqpbHayECFhV2_8w0m2SXrjbnB_M?usp=sharing)
 ## Versión 2
-### Deploy
-- Ver en [https://horaclinic-v2.netlify.app/](https://horaclinic-v2.netlify.app/)
 ### Videos
 - 7: ServiceCard
 - 8: listado profesionales completo (card)
@@ -22,8 +18,6 @@
 ### Otros
 - Data original:[Ver archivos](https://drive.google.com/drive/folders/1Ccux1E_bDLNwnImTp_FwBmap8IOg-pqa?usp=sharing)
 ## Versión 3
-### Deploy
-- Ver en [https://horaclinic-v3.netlify.app/](https://horaclinic-v3.netlify.app/)
 ### Videos
 - 11: Views: Home, Login, Servicios, Profesionales, Reserva
 - 12: Navbar y Rutas
